@@ -1,0 +1,4 @@
+#Wed Feb 06 18:25:32 GMT 2019
+base.0=/home/koliko/AndroidStudioProjects/IprojectOne/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
